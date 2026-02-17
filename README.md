@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-Brings MCP to ChatGPT, Perplexity, Z (GML), Grok, Gemini, Google AI Studio, OpenRouter, Kimi, Github Copilot, Mistral and more...
+Brings MCP to ChatGPT, Perplexity, GLM, Grok, Gemini, Google AI Studio, OpenRouter, Kimi, Github Copilot, Mistral and more...
 </p>
 
 <!-- ![MCP SuperAssistant](chrome-extension/public/Cover3.jpg) -->
